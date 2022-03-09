@@ -1,0 +1,17 @@
+.search {
+  -webkit-appearance: none;
+  border: 1px solid #aaa;
+  border-radius: 0rem;
+  outline: none;
+  padding: 10px 1rem 10px 1rem;
+  width: 150px;
+  line-height: 30px;
+  margin-bottom: 30px;
+}
+
+.search::placeholder {
+  text-align: center;
+  text-transform: capitalize;
+  font-family: "NewYork";
+  font-weight: 800;
+}

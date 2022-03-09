@@ -1,0 +1,16 @@
+@font-face {
+  font-family: "NewYork";
+  src: local("NewYork"), url(./fonts/NewYork.ttf) format("truetype");
+}
+
+body {
+  margin: 0;
+  font-family: "NewYork";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
