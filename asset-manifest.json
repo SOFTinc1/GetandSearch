@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/SOFTinc1/GetandSearch/static/css/main.490d8cfe.css",
+    "main.js": "/SOFTinc1/GetandSearch/static/js/main.66c63523.js",
+    "static/js/787.81a1bc09.chunk.js": "/SOFTinc1/GetandSearch/static/js/787.81a1bc09.chunk.js",
+    "static/media/NewYork.ttf": "/SOFTinc1/GetandSearch/static/media/NewYork.57afb0600f0b9ce8a9a5.ttf",
+    "index.html": "/SOFTinc1/GetandSearch/index.html",
+    "main.490d8cfe.css.map": "/SOFTinc1/GetandSearch/static/css/main.490d8cfe.css.map",
+    "main.66c63523.js.map": "/SOFTinc1/GetandSearch/static/js/main.66c63523.js.map",
+    "787.81a1bc09.chunk.js.map": "/SOFTinc1/GetandSearch/static/js/787.81a1bc09.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.490d8cfe.css",
+    "static/js/main.66c63523.js"
+  ]
+}
