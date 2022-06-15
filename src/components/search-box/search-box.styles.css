@@ -4,9 +4,9 @@
   border-radius: 0rem;
   outline: none;
   padding: 10px 1rem 10px 1rem;
-  width: 150px;
+  width: 50%;
   line-height: 30px;
-  margin-bottom: 30px;
+  margin: 0 0 50px 20px;
 }
 
 .search::placeholder {
@@ -14,4 +14,12 @@
   text-transform: capitalize;
   font-family: "NewYork";
   font-weight: 800;
+}
+
+@media screen and (max-width: 800px) {
+  .search {
+    -webkit-appearance: none;
+    width: 100%;
+    margin: 0 0 40px 40px;
+  }
 }

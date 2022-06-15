@@ -10,21 +10,23 @@
   backface-visibility: hidden;
   transform: translateZ(0);
   transition: transform 0.25s ease-out;
+
+  
 }
 
 .card-container:hover {
-  transform: scale(1.05); 
-  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px; 
+  transform: scale(1.05);
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
 }
 img {
-    width: 50%;
-    align-self: center;
+  width: 50%;
+  align-self: center;
 }
 h1 {
-    font-size: 1.5rem;
-    text-transform: capitalize;
+  font-size: 1.5rem;
+  text-transform: capitalize;
 }
 p {
-    font-size: 0.9rem;
-    text-transform: lowercase;
+  font-size: 0.9rem;
+  text-transform: lowercase;
 }
